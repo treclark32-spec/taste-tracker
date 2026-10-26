@@ -101,3 +101,8 @@ console.log(
     longestFood.length +
     " characters."
 );
+// Extra feature: Show how many favorite foods I have
+console.log("I have " + favoriteFoods.length + " favorite foods!");
+
+// Extra feature: Show my number one favorite food
+console.log("My number one favorite food is " + favoriteFoods[0] + "!");
